@@ -17,13 +17,7 @@
 
 ---
 
-### 🎧 My Spotify Vibes
-
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317regzxlen5dsmi5ovlk4ibtxq4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
----
-
-### 🧠 "The mind is like a parachute. It doesn’t work if it isn’t open." – *Frank Zappa*
+### 🧠 "The mind is like a parachute. It doesn’t work if it isn’t open."
 
 ---
 
@@ -32,9 +26,9 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://camo.githubusercontent.com/5bbfd7fa05e605122514f98b289be5cf7516c98ac9589f1045ecfb446716e65f/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6c6e377a32655772696951416c6c6656636e2f323030772e77656270" width="40" />
+  <img src="https://camo.githubusercontent.com/73b042f1325c63c0ff78038f8701f9aad93061d0e4d451dbcf20cf9983dfc660/68747470733a2f2f692e67697068792e636f6d2f6d656469612f56674774686b68557647674f6974375939692f3230302e77656270" width="40" />
+  <img src="https://camo.githubusercontent.com/a18d3aba14bbdeef2606fca1b949f7308a624d7e507c043debca20c356a3a50c/68747470733a2f2f692e67697068792e636f6d2f6d656469612f654e41736a4f353574506267616f72376d612f323030772e77656270" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" />
@@ -54,6 +48,11 @@
 
 ---
 
+<h3 align="center">Your life will improve.</h3>
+<p align="left">Start reading, you will want to write. <br> Start writing, your thinking will be organized. <br> When your thinking is organized, ideas will come. <br> When ideas come, you will want to do things.<br> If you start doing, over time, results will come. <br> Seeing the results, others will be inspired. <br> When there are many, greater things can be done. <br> Read, friends. <br> Your life will improve.</p>
+
+---
+
 ### 🌐 Connect with Me
 
 <p align="center">
@@ -69,6 +68,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muhammadxoja-design&show_icons=true&theme=radical" width="45%" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadxoja-design&layout=compact&theme=radical" width="45%" />
 </p>
 
