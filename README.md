@@ -78,13 +78,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadxoja-design&theme=radical" />
 </p>
 
----
-
-### ✨ Cosmic Touch
-
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHp4b2o2MWl5aWJ2enplYWp2eWxraXd4NXY1ODI4YWp1NTJ0Z3lpaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U3qYN8S0j3bpK/giphy.gif" width="100%" />
-</p>
 
 ---
 
